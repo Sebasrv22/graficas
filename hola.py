@@ -8,7 +8,7 @@ st.title("Mi primera App")
 st.header("Demo Titanic App")
 st.write("Graficas del dataset")
 
-titanic_link = 'titanic.csv'
+titanic_link = 'titanic2.csv'
 titanic_data =pd.read_csv(titanic_link)
 st.dataframe(titanic_data)
 
