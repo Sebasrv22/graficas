@@ -1,7 +1,7 @@
 #importamos la biblioteca streamlit
 import pandas as pd
 import streamlit as st
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 #creamos el título de la app
 st.title("Mi primera App")
