@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 #creamos el título de la app
 st.title("Mi primera App")
-st.header("Demo Titanic App")
+st.header("Sebastián Romero Velasco")
 st.write("Graficas del dataset")
 
 titanic_link = 'titanic2.csv'
